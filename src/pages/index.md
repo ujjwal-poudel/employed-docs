@@ -1,10 +1,10 @@
 ---
-title: Getting started
-pageTitle: CacheAdvance - Never miss the cache again.
+title: What is Employed?
+pageTitle: Employed - Never search another job.
 description: Cache every single thing your app could ever do ahead of time, so your code never even has to run at all.
 ---
 
-Learn how to get CacheAdvance set up in your project in under thirty minutes or it's free. {% .lead %}
+Learn more about Employed. What we seek to achieve and how we are helping develop a better job economy! {% .lead %}
 
 {% quick-links %}
 
