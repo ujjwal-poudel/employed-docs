@@ -49,7 +49,7 @@ The project is expected to be completed by February.
 • Alpha Release - 1 week (right after dev & testing).\
 • Feedback & Changes - within 2 weeks after alpha release & closed testing.
 
---
+---
 ## Technology Stack
 The Employed website will be built using the following technologies to ensure a robust and scalable solution.
 
