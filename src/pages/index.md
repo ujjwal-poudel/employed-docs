@@ -18,11 +18,6 @@ Learn more about Employed. What we seek to achieve and how we are helping develo
 
 {% /quick-links %}
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste.
-
----
-title: Project Employed
-description: This is the project
 ---
 The Employed website aims to simplify the job search process by providing a user-friendly platform for job seekers to discover and apply for nearby jobs. The unique feature of the website is its emphasis on ease of use, achieved through an interactive map format that displays job listings with informative icons and clutter-free minimal information that is easy to digest.
 ---
