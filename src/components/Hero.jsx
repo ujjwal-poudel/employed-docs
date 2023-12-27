@@ -52,7 +52,7 @@ export function Hero() {
                   target="_blank"
                   variant="secondary"
                 >
-                  View on GitHub 👁️
+                  View on GitHub
                 </Button>
               </div>
             </div>
