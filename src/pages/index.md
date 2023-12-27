@@ -4,7 +4,7 @@ pageTitle: Employed - Never search another job.
 description: Cache every single thing your app could ever do ahead of time, so your code never even has to run at all.
 ---
 
-Learn more about Employed. What we seek to achieve and how we are helping develop a better job economy! {% .lead %}
+Employed is a job searching app based on the maps. It is so simplified that you can turn on your location and find the jobs near you.! {% .lead %}
 
 {% quick-links %}
 
